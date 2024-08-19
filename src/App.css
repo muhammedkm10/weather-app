@@ -1,0 +1,12 @@
+.full_page{
+  background-color: rgb(176, 116, 231);
+  min-height: 100vh; 
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
